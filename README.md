@@ -18,7 +18,7 @@
 1. [Desafio API REST- Júlio de Lima](https://github.com/Ingrid2110rj/DesafioAPI_Julio-de-Lima)
 3. [Desafio Fleury](https://github.com/Ingrid2110rj/qa_automation_web)
 3. [Desafio Reserva de Mesa](https://github.com/Ingrid2110rj/DesafioReservadeMesa)
-5. [Desafio Estratégia Concurso](https://github.com/Ingrid2110rj/desafioQAG5)
+5. [Desafio Lojas Rosa Chiclé](https://github.com/MarciarsCastro/FinalChallengeQA-StartTech)
 7. [Automação BugBank](https://github.com/Ingrid2110rj/BugBank)
 
 
