@@ -18,6 +18,7 @@
 3. [Desafio Reserva de Mesa](https://github.com/MarciarsCastro/DesafioReservadeMesa)
 5. [Desafio Lojas Rosa Chiclé](https://github.com/MarciarsCastro/FinalChallengeQA-StartTech)
 7. [Automação BugBank](https://github.com/MarciarsCastro/BugBank)
+8. [Desafio Papito]()
 
 
 
