@@ -17,7 +17,7 @@
 1. [Desafio API Serverest](https://github.com/MarciarsCastro/Teste-API-Serverest)
 3. [Desafio Reserva de Mesa](https://github.com/MarciarsCastro/DesafioReservadeMesa)
 5. [Desafio Lojas Rosa Chiclé](https://github.com/MarciarsCastro/FinalChallengeQA-StartTech)
-7. [Automação BugBank](https://github.com/Ingrid2110rj/BugBank)
+7. [Automação BugBank](https://github.com/MarciarsCastro/BugBank)
 
 
 
