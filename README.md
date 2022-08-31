@@ -19,9 +19,8 @@
 3. [Desafio Fleury](https://github.com/Ingrid2110rj/qa_automation_web)
 3. [Desafio Reserva de Mesa](https://github.com/Ingrid2110rj/DesafioReservadeMesa)
 5. [Desafio Estratégia Concurso](https://github.com/Ingrid2110rj/desafioQAG5)
-6. [Teste de mutação 👽](https://github.com/Ingrid2110rj/TestedeMutacao)
 7. [Automação BugBank](https://github.com/Ingrid2110rj/BugBank)
-7. [Mapa Mental CTFL](https://miro.com/app/board/uXjVO8KY7kY=/)
+
 
 
 
