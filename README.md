@@ -15,7 +15,6 @@
 1. [Desafio Totvs](https://github.com/MarciarsCastro/DesafioTotvs)
 1. [Desafio Zé Delivery](https://github.com/MarciarsCastro/DesafioZe)
 1. [Desafio API Serverest](https://github.com/Ingrid2110rj/Teste-API-Serverest)
-1. [Desafio API REST- Júlio de Lima](https://github.com/Ingrid2110rj/DesafioAPI_Julio-de-Lima)
 3. [Desafio Fleury](https://github.com/Ingrid2110rj/qa_automation_web)
 3. [Desafio Reserva de Mesa](https://github.com/Ingrid2110rj/DesafioReservadeMesa)
 5. [Desafio Lojas Rosa Chiclé](https://github.com/MarciarsCastro/FinalChallengeQA-StartTech)
