@@ -45,6 +45,6 @@
 ⚡ *Postman*
   
 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]https://www.linkedin.com/in/m%C3%A1rcia-castro-95308aba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByrncNKoWT%2F%2BMQTX3ZRDizQ%3D%3D/)
 
 
-https://www.linkedin.com/in/m%C3%A1rcia-castro-95308aba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByrncNKoWT%2F%2BMQTX3ZRDizQ%3D%3D
