@@ -4,7 +4,7 @@
 - 🔭 Estou trabalhando na Ambev Tech como Quality Assurance (QA).
 - 🌱Completamente apaixonada por testes e automação.
 - 😄Motivada por desafios. Movida pelo aprendizado ao longo da vida.
-- ⚡ Em uma frase: eu sou uma curiosa auto-aprendiz apaixonada por aprender.
+- ⚡ Em uma frase: eu sou uma pessoa curiosa, auto-aprendiz e apaixonada pelo conhecimento.
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
@@ -25,23 +25,26 @@
 
 
 #### 📗 Conhecimentos técnicos:<h3>  
-  ⚡   *Conceitos e métodos de testes de Softwares manuais e automatizados(UI-Web e API).*
+ ⚡   *Conceitos e métodos de testes de Softwares manuais e automatizados(UI-Web e API).*
   
-  ⚡   *Scrum Framework*
+ ⚡   *Scrum Framework*
   
-  ⚡   *BDD e Gherkin.*
+ ⚡   *BDD e Gherkin.*
  
-  ⚡   *JavaScript.*  
+ ⚡   *JavaScript.*  
 
 #### 🛠️ *Ferramentas: <h4>*
 ⚡ *Cypress.*
   
 ⚡ *VS Code.*
  
- ⚡ *Azure.*
+⚡ *Azure.*
   
 ⚡ *SQL Server 2019 - DML*
   
 ⚡ *Postman*
+
+⚡ *Jmeter*
+  
   
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m%C3%A1rcia-castro-95308aba/)
