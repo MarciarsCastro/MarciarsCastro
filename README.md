@@ -1,9 +1,9 @@
 ### Hello, Eu sou Márcia Castro <img src="https://raw.githubusercontent.com/Qatata/Qatata/master/wave.gif" width="30px">
 
-- 🎓Gestão da Tecnologia da Informação
+- 🎓 Pós-graduada em Gestão da Tecnologia da Informação
 - 🔭 Estou trabalhando na Ambev Tech como Quality Assurance (QA).
-- 🌱Completamente apaixonada por testes e automação.
-- 😄Motivada por desafios. Movida pelo aprendizado ao longo da vida.
+- 🌱 Completamente apaixonada por testes e automação.
+- 😄 Motivada por desafios. Movida pelo aprendizado ao longo da vida.
 - ⚡ Em uma frase: eu sou uma pessoa curiosa, auto-aprendiz e apaixonada pelo conhecimento.
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
