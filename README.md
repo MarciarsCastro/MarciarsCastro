@@ -1,8 +1,8 @@
 ### Hello, Eu sou Márcia Castro <img src="https://raw.githubusercontent.com/Qatata/Qatata/master/wave.gif" width="30px">
 
 - 🎓 Pós-graduada em Gestão da Tecnologia da Informação
-- 🔭 Estou trabalhando na Ambev Tech como Quality Assurance (QA).
-- 🌱 Completamente apaixonada por testes e automação.
+- 🔭 Instituto Senai de Inovação  para Tecnologias da Informação e Comunicação.
+- 🌱 Apaixonada por qualidade e automação com Robot Framework. 
 - 😄 Motivada por desafios. Movida pelo aprendizado ao longo da vida.
 - ⚡ Em uma frase: eu sou uma pessoa curiosa, auto-aprendiz e apaixonada pelo conhecimento.
 <p align="center">
