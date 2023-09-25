@@ -4,7 +4,7 @@
 - 🔭 Instituto Senai de Inovação  para Tecnologias da Informação e Comunicação.
 - 🌱 Apaixonada por qualidade e automação com Robot Framework. 
 - 😄 Motivada por desafios. Movida pelo aprendizado ao longo da vida.
-- ⚡ Em uma frase: eu sou uma pessoa curiosa, auto-aprendiz e apaixonada pelo conhecimento.
+- ⚡ Em uma frase: Uma pessoa curiosa, auto-aprendiz e apaixonada pelo conhecimento.
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
@@ -25,7 +25,7 @@
 
 
 #### 📗 Conhecimentos técnicos:<h3>  
- ⚡   *Conceitos e métodos de testes de Softwares manuais e automatizados(UI-Web e API).*
+ ⚡   *Conceitos e métodos de testes de Softwares manuais e automatizados(Web e API).*
   
  ⚡   *Scrum Framework*
   
@@ -36,9 +36,9 @@
 #### 🛠️ *Ferramentas: <h4>*
 ⚡ *Cypress.*
   
-⚡ *VS Code.*
+⚡ *VSCode.*
  
-⚡ *Azure.*
+⚡ *Azure Devops.*
   
 ⚡ *SQL Server 2019 - DML*
   
