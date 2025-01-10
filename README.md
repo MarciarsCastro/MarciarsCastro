@@ -1,7 +1,7 @@
 ### Hello, Eu sou Márcia Castro <img src="https://raw.githubusercontent.com/Qatata/Qatata/master/wave.gif" width="30px">
 
 - 🎓 Pós-graduada em Gestão da Tecnologia da Informação
-- 🔭 Instituto Senai de Inovação  para Tecnologias da Informação e Comunicação.
+- 🔭 Atualmente sou Analista de Testes QA na Pitang Agile It à serviço do Tribunal de Contas do Estado de Pernambuco
 - 🌱 Apaixonada por qualidade e automação com Robot Framework. 
 - 😄 Motivada por desafios. Movida pelo aprendizado ao longo da vida.
 - ⚡ Em uma frase: Uma pessoa curiosa, auto-aprendiz e apaixonada pelo conhecimento.
